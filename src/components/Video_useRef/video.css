@@ -1,0 +1,15 @@
+.videos-player-btn{
+    width: 150px;
+    height: 60px;
+    margin-top: 50px;
+    border-radius: 15px;
+    border: none;
+    cursor: pointer;
+    background: #000;
+    color: red;
+    font-size: 18px;
+    font-weight: 600;
+}
+.videos-player-btn:active{
+    color: orangered;
+}
